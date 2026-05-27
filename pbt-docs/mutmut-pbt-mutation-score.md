@@ -1,10 +1,10 @@
 # Mutation Score Report
 
-**Overall Score:** 100.0%
+**Overall Score:** 51.5%
 
-- Total: 131
-- Killed: 131
-- Survived: 0
+- Total: 130
+- Killed: 67
+- Survived: 63
 - Timeout: 0
 - Error: 0
-- Tested: 131
+- Tested: 130
