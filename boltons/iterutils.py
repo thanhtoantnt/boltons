@@ -299,7 +299,7 @@ def chunked(src, size, count=None, **kw):
 
     See :func:`chunked_iter` for more info.
     """
-    chunk_iter = chunked_iter(src, size, **kw)
+    chunk_iter = None
     if count is None:
         return list(chunk_iter)
     else:
